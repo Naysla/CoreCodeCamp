@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B99CCEaN+oQ2RRhDbd88S4488kqIx9XyA/OVTWA/QzKqC92IB6J/Kf3yWGTkux5VRJsB7hS2DqKqx2tI1XdK6A==",
+  "dgSpecHash": "mPNFW1wuy2HmGcNBx+Niuuhz3KR0oeh1BgIMB63c2DqRZRwjEqfkXClmH+9JFKA7CKpFcb4igsrDh2MZRNenhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Naysla\\source\\repos\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+  "projectFilePath": "C:\\Users\\Naysla\\source\\repos\\CoreCodeCamp\\CoreCodeCamp\\src\\CoreCodeCamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Naysla\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Naysla\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",

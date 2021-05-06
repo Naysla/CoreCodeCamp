@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Naysla\\source\\repos\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+      "projectUniqueName": "C:\\Users\\Naysla\\source\\repos\\CoreCodeCamp\\CoreCodeCamp\\src\\CoreCodeCamp.csproj",
       "projectName": "CoreCodeCamp",
-      "projectPath": "C:\\Users\\Naysla\\source\\repos\\CoreApiFundamentals-5.0\\src\\CoreCodeCamp.csproj",
+      "projectPath": "C:\\Users\\Naysla\\source\\repos\\CoreCodeCamp\\CoreCodeCamp\\src\\CoreCodeCamp.csproj",
       "packagesPath": "C:\\Users\\Naysla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Naysla\\source\\repos\\CoreApiFundamentals-5.0\\src\\obj\\",
+      "outputPath": "C:\\Users\\Naysla\\source\\repos\\CoreCodeCamp\\CoreCodeCamp\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
