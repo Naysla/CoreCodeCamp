@@ -7,6 +7,7 @@
     public string Title { get; set; }
     public string Abstract { get; set; }
     public int Level { get; set; }
-    public Speaker Speaker { get; set; }
+    //Se llama una coleccion de otra entidad que se relaciona con esta
+     public Speaker Speaker { get; set; }
   }
 }
